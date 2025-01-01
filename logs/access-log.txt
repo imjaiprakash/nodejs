@@ -1,0 +1,634 @@
+function now() { [native code] } | ./logs/access-log.txt | Server started.
+1735144699325 | ./logs/access-log.txt | Server started.
+1735144734072 | ./logs/access-log.txt | Response sent.
+1735144734069 | ./logs/access-log.txt | Request init.
+1735144734210 | ./logs/access-log.txt | Request init.
+1735144734211 | ./logs/access-log.txt | Response sent.
+1735144854379 | ./logs/access-log.txt | Server started.
+1735144862785 | ./logs/access-log.txt | Request init | /
+1735144862788 | ./logs/access-log.txt | Response sent.
+1735144862816 | ./logs/access-log.txt | Response sent.
+1735144862815 | ./logs/access-log.txt | Request init | /favicon.ico
+1735144865366 | ./logs/access-log.txt | Request init | /
+1735144865366 | ./logs/access-log.txt | Response sent.
+1735144865393 | ./logs/access-log.txt | Request init | /favicon.ico
+1735144865393 | ./logs/access-log.txt | Response sent.
+1735144892737 | ./logs/access-log.txt | Server started.
+1735144901583 | ./logs/access-log.txt | Request init | /
+1735144901585 | ./logs/access-log.txt | Response sent.
+1735144901615 | ./logs/access-log.txt | Request init | /favicon.ico
+1735144901616 | ./logs/access-log.txt | Response sent.
+1735145046887 | ./logs/access-log.txt | Request init | /
+1735145046888 | ./logs/access-log.txt | Response sent.
+1735145046911 | ./logs/access-log.txt | Request init | /favicon.ico
+1735145046912 | ./logs/access-log.txt | Response sent.
+1735145054622 | ./logs/access-log.txt | Server started.
+1735145064102 | ./logs/access-log.txt | Request init | /
+1735145064109 | ./logs/access-log.txt | Response sent.
+1735145064133 | ./logs/access-log.txt | Request init | /favicon.ico
+1735145064133 | ./logs/access-log.txt | Response sent.
+1735145065652 | ./logs/access-log.txt | Request init | /
+1735145065653 | ./logs/access-log.txt | Response sent.
+1735145065683 | ./logs/access-log.txt | Request init | /favicon.ico
+1735145065684 | ./logs/access-log.txt | Response sent.
+1735145124363 | ./logs/access-log.txt | Server started.
+1735145135688 | ./logs/access-log.txt | Server started.
+1735145145585 | ./logs/access-log.txt | Request init | /
+1735145145591 | ./logs/access-log.txt | Response sent.
+1735145145608 | ./logs/access-log.txt | Response sent.
+1735145145607 | ./logs/access-log.txt | Request init | /favicon.ico
+1735145152932 | ./logs/access-log.txt | Request init | /
+1735145152932 | ./logs/access-log.txt | Response sent.
+1735145152964 | ./logs/access-log.txt | Request init | /favicon.ico
+1735145152965 | ./logs/access-log.txt | Response sent.
+1735145235447 | ./logs/access-log.txt | Request init | /about
+1735145235448 | ./logs/access-log.txt | Response sent.
+1735145235477 | ./logs/access-log.txt | Request init | /favicon.ico
+1735145235478 | ./logs/access-log.txt | Response sent.
+1735146648150 | ./logs/access-log.txt | Server started.
+1735146660544 | ./logs/access-log.txt | Response sent.
+1735146660542 | ./logs/access-log.txt | Request init | /about
+1735146794834 | ./logs/access-log.txt | Server started.
+1735146799183 | ./logs/access-log.txt | Request init | /
+1735146799186 | ./logs/access-log.txt | Response sent.
+1735146816588 | ./logs/access-log.txt | Server started.
+1735146819324 | ./logs/access-log.txt | Request init | /
+1735146819326 | ./logs/access-log.txt | Response sent.
+1735146819345 | ./logs/access-log.txt | Response sent.
+1735146819345 | ./logs/access-log.txt | Request init | /favicon.ico
+1735146820649 | ./logs/access-log.txt | Request init | /
+1735146820650 | ./logs/access-log.txt | Response sent.
+1735146820667 | ./logs/access-log.txt | Request init | /favicon.ico
+1735146820667 | ./logs/access-log.txt | Response sent.
+1735146828660 | ./logs/access-log.txt | Request init | /about
+1735146828660 | ./logs/access-log.txt | Response sent.
+1735146828685 | ./logs/access-log.txt | Request init | /favicon.ico
+1735146828685 | ./logs/access-log.txt | Response sent.
+1735146836391 | ./logs/access-log.txt | Request init | /contact
+1735146836391 | ./logs/access-log.txt | Response sent.
+1735146836419 | ./logs/access-log.txt | Response sent.
+1735146836419 | ./logs/access-log.txt | Request init | /favicon.ico
+1735146840380 | ./logs/access-log.txt | Response sent.
+1735146840379 | ./logs/access-log.txt | Request init | /contacts
+1735146903057 | ./logs/access-log.txt | Server started.
+1735146909013 | ./logs/access-log.txt | Request init | /contacts
+1735146909017 | ./logs/access-log.txt | Response sent.
+1735146943680 | ./logs/access-log.txt | Server started.
+1735146943753 | ./logs/access-log.txt | Request init | /about
+1735146943755 | ./logs/access-log.txt | Response sent.
+1735147011516 | ./logs/access-log.txt | Server started.
+1735147017225 | ./logs/access-log.txt | Request init | /
+1735147017229 | ./logs/access-log.txt | Response sent.
+1735147078635 | ./logs/access-log.txt | Server started.
+1735147085297 | ./logs/access-log.txt | Request init | /
+1735147085300 | ./logs/access-log.txt | Response sent.
+1735147167200 | ./logs/access-log.txt | Server started.
+1735147169227 | ./logs/access-log.txt | Request init | /
+1735147169230 | ./logs/access-log.txt | Response sent.
+1735147400939 | ./logs/access-log.txt | Server started.
+1735147405262 | ./logs/access-log.txt | Request init | /
+1735147405264 | ./logs/access-log.txt | Response sent.
+1735147475726 | ./logs/access-log.txt | Server started.
+1735147479300 | ./logs/access-log.txt | Request init | /
+1735147479303 | ./logs/access-log.txt | Response sent.
+1735147584103 | ./logs/access-log.txt | Server started.
+1735147588124 | ./logs/access-log.txt | Request init | /
+1735147588132 | ./logs/access-log.txt | Response sent.
+1735147588150 | ./logs/access-log.txt | Response sent.
+1735147588150 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147602161 | ./logs/access-log.txt | Request init | /about
+1735147602161 | ./logs/access-log.txt | Response sent.
+1735147602759 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147602760 | ./logs/access-log.txt | Response sent.
+1735147612895 | ./logs/access-log.txt | Request init | /contact
+1735147612895 | ./logs/access-log.txt | Response sent.
+1735147612925 | ./logs/access-log.txt | Response sent.
+1735147612925 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147618700 | ./logs/access-log.txt | Request init | /contacts
+1735147618700 | ./logs/access-log.txt | Response sent.
+1735147618732 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147618732 | ./logs/access-log.txt | Response sent.
+1735147663214 | ./logs/access-log.txt | Server started.
+1735147666439 | ./logs/access-log.txt | Request init | /contacts
+1735147666443 | ./logs/access-log.txt | Response sent.
+1735147666470 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147666471 | ./logs/access-log.txt | Response sent.
+1735147709439 | ./logs/access-log.txt | Request init | /contact
+1735147709440 | ./logs/access-log.txt | Response sent.
+1735147709750 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147709751 | ./logs/access-log.txt | Response sent.
+1735147776108 | ./logs/access-log.txt | Server started.
+1735147778724 | ./logs/access-log.txt | Request init | /contact
+1735147778727 | ./logs/access-log.txt | Response sent.
+1735147778745 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147778746 | ./logs/access-log.txt | Response sent.
+1735147784814 | ./logs/access-log.txt | Request init | /contacts
+1735147784815 | ./logs/access-log.txt | Response sent.
+1735147784849 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147784849 | ./logs/access-log.txt | Response sent.
+1735147792965 | ./logs/access-log.txt | Request init | /home
+1735147792965 | ./logs/access-log.txt | Response sent.
+1735147793000 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147793000 | ./logs/access-log.txt | Response sent.
+1735147799845 | ./logs/access-log.txt | Request init | /
+1735147799845 | ./logs/access-log.txt | Response sent.
+1735147799869 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147799869 | ./logs/access-log.txt | Response sent.
+1735147855223 | ./logs/access-log.txt | Request init | /about
+1735147855223 | ./logs/access-log.txt | Response sent.
+1735147863591 | ./logs/access-log.txt | Response sent.
+1735147863591 | ./logs/access-log.txt | Request init | /about?name=Jai
+1735147863627 | ./logs/access-log.txt | Request init | /favicon.ico
+1735147863628 | ./logs/access-log.txt | Response sent.
+1735148065594 | ./logs/access-log.txt | Server started.
+1735148117848 | ./logs/access-log.txt | Server started.
+1735148120303 | ./logs/access-log.txt | Response sent.
+1735148120301 | ./logs/access-log.txt | Request init | /about?name=Jai
+1735148120357 | ./logs/access-log.txt | Request init | /favicon.ico
+1735148120359 | ./logs/access-log.txt | Response sent.
+1735148173306 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735148173307 | ./logs/access-log.txt | Response sent.
+1735148173335 | ./logs/access-log.txt | Request init | /favicon.ico
+1735148173336 | ./logs/access-log.txt | Response sent.
+1735148494681 | ./logs/access-log.txt | Server started.
+1735148771241 | ./logs/access-log.txt | Server started.
+1735148823129 | ./logs/access-log.txt | Server started.
+1735148836276 | ./logs/access-log.txt | Server started.
+1735148893497 | ./logs/access-log.txt | Server started.
+1735148919123 | ./logs/access-log.txt | Server started.
+1735149087329 | ./logs/access-log.txt | Server started.
+1735149610830 | ./logs/access-log.txt | Server started.
+1735149634844 | ./logs/access-log.txt | Server started.
+1735149655097 | ./logs/access-log.txt | Server started.
+1735149673799 | ./logs/access-log.txt | Server started.
+1735149675862 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735149675862 | ./logs/access-log.txt | Response sent.
+1735149675873 | ./logs/access-log.txt | Request init | /favicon.ico
+1735149675874 | ./logs/access-log.txt | Response sent.
+1735149794786 | ./logs/access-log.txt | Server started.
+1735149796951 | ./logs/access-log.txt | Response sent.
+1735149796950 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735149796975 | ./logs/access-log.txt | Request init | /favicon.ico
+1735149796975 | ./logs/access-log.txt | Response sent.
+1735149847101 | ./logs/access-log.txt | Server started.
+1735149848495 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735149848495 | ./logs/access-log.txt | Response sent.
+1735149848517 | ./logs/access-log.txt | Request init | /favicon.ico
+1735149848517 | ./logs/access-log.txt | Response sent.
+1735149997006 | ./logs/access-log.txt | Server started.
+1735150055855 | ./logs/access-log.txt | Server started.
+1735150136165 | ./logs/access-log.txt | Server started.
+1735150301059 | ./logs/access-log.txt | Server started.
+1735150324993 | ./logs/access-log.txt | Server started.
+1735150329869 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150329869 | ./logs/access-log.txt | Response sent.
+1735150329940 | ./logs/access-log.txt | Response sent.
+1735150329939 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150342591 | ./logs/access-log.txt | Server started.
+1735150344408 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150344408 | ./logs/access-log.txt | Response sent.
+1735150344425 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150344425 | ./logs/access-log.txt | Response sent.
+1735150392136 | ./logs/access-log.txt | Server started.
+1735150392436 | ./logs/access-log.txt | Server started.
+1735150392631 | ./logs/access-log.txt | Server started.
+1735150392838 | ./logs/access-log.txt | Server started.
+1735150393018 | ./logs/access-log.txt | Server started.
+1735150393211 | ./logs/access-log.txt | Server started.
+1735150393395 | ./logs/access-log.txt | Server started.
+1735150393652 | ./logs/access-log.txt | Server started.
+1735150440181 | ./logs/access-log.txt | Server started.
+1735150442647 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150442647 | ./logs/access-log.txt | Response sent.
+1735150442700 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150442700 | ./logs/access-log.txt | Response sent.
+1735150443692 | ./logs/access-log.txt | Response sent.
+1735150443692 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150443719 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150443719 | ./logs/access-log.txt | Response sent.
+1735150456984 | ./logs/access-log.txt | Server started.
+1735150463684 | ./logs/access-log.txt | Server started.
+1735150465830 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150465830 | ./logs/access-log.txt | Response sent.
+1735150465851 | ./logs/access-log.txt | Response sent.
+1735150465851 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150470846 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150470846 | ./logs/access-log.txt | Response sent.
+1735150470874 | ./logs/access-log.txt | Response sent.
+1735150470873 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150482236 | ./logs/access-log.txt | Server started.
+1735150484623 | ./logs/access-log.txt | Server started.
+1735150487288 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150487288 | ./logs/access-log.txt | Response sent.
+1735150487314 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150487314 | ./logs/access-log.txt | Response sent.
+1735150498346 | ./logs/access-log.txt | Server started.
+1735150500502 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150500502 | ./logs/access-log.txt | Response sent.
+1735150500525 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150500525 | ./logs/access-log.txt | Response sent.
+1735150572982 | ./logs/access-log.txt | Server started.
+1735150577570 | ./logs/access-log.txt | Response sent.
+1735150577570 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150577592 | ./logs/access-log.txt | Response sent.
+1735150577592 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150596599 | ./logs/access-log.txt | Server started.
+1735150598760 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150598760 | ./logs/access-log.txt | Response sent.
+1735150598785 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150598785 | ./logs/access-log.txt | Response sent.
+1735150628614 | ./logs/access-log.txt | Server started.
+1735150632652 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150632653 | ./logs/access-log.txt | Response sent.
+1735150632672 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150632672 | ./logs/access-log.txt | Response sent.
+1735150665895 | ./logs/access-log.txt | Server started.
+1735150671523 | ./logs/access-log.txt | Response sent.
+1735150671523 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150671542 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150671542 | ./logs/access-log.txt | Response sent.
+1735150680262 | ./logs/access-log.txt | Server started.
+1735150682489 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150682489 | ./logs/access-log.txt | Response sent.
+1735150682507 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150682507 | ./logs/access-log.txt | Response sent.
+1735150693397 | ./logs/access-log.txt | Server started.
+1735150695317 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150695317 | ./logs/access-log.txt | Response sent.
+1735150695343 | ./logs/access-log.txt | Request init | /favicon.ico
+1735150695343 | ./logs/access-log.txt | Response sent.
+1735150727342 | ./logs/access-log.txt | Server started.
+1735150732217 | ./logs/access-log.txt | Server started.
+1735150733435 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150733435 | ./logs/access-log.txt | Response sent.
+1735150756677 | ./logs/access-log.txt | Server started.
+1735150759453 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150759454 | ./logs/access-log.txt | Response sent.
+1735150788773 | ./logs/access-log.txt | Server started.
+1735150793128 | ./logs/access-log.txt | Server started.
+1735150797296 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150797296 | ./logs/access-log.txt | Response sent.
+1735150809259 | ./logs/access-log.txt | Server started.
+1735150814588 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150814588 | ./logs/access-log.txt | Response sent.
+1735150866196 | ./logs/access-log.txt | Server started.
+1735150868770 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150868770 | ./logs/access-log.txt | Response sent.
+1735150875144 | ./logs/access-log.txt | Server started.
+1735150891478 | ./logs/access-log.txt | Server started.
+1735150900040 | ./logs/access-log.txt | Server started.
+1735150904828 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735150904828 | ./logs/access-log.txt | Response sent.
+1735150980034 | ./logs/access-log.txt | Server started.
+1735150983904 | ./logs/access-log.txt | Server started.
+1735151023235 | ./logs/access-log.txt | Server started.
+1735151037492 | ./logs/access-log.txt | Server started.
+1735151068642 | ./logs/access-log.txt | Server started.
+1735151088307 | ./logs/access-log.txt | Server started.
+1735151091906 | ./logs/access-log.txt | Server started.
+1735151098581 | ./logs/access-log.txt | Server started.
+1735151105895 | ./logs/access-log.txt | Server started.
+1735151121336 | ./logs/access-log.txt | Server started.
+1735151144082 | ./logs/access-log.txt | Server started.
+1735151156854 | ./logs/access-log.txt | Server started.
+1735151157070 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735151157072 | ./logs/access-log.txt | Response sent.
+1735151159439 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735151159439 | ./logs/access-log.txt | Response sent.
+1735151173081 | ./logs/access-log.txt | Request init | /
+1735151173082 | ./logs/access-log.txt | Response sent.
+1735151207880 | ./logs/access-log.txt | Server started.
+1735151208009 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735151208011 | ./logs/access-log.txt | Response sent.
+1735151210307 | ./logs/access-log.txt | Request init | /about?name=Jai&eid=ERR909012GH
+1735151210307 | ./logs/access-log.txt | Response sent.
+1735230932476 | ./logs/access-log.txt | Server started.
+1735230969492 | ./logs/access-log.txt | Server started.
+1735230993257 | ./logs/access-log.txt | Server started.
+1735231043133 | ./logs/access-log.txt | Server started.
+1735231059993 | ./logs/access-log.txt | Server started.
+1735231066829 | ./logs/access-log.txt | Server started.
+1735231216843 | ./logs/access-log.txt | Server started.
+1735231255924 | ./logs/access-log.txt | Server started.
+1735231265930 | ./logs/access-log.txt | Server started.
+1735231430114 | ./logs/access-log.txt | Server started.
+1735231865595 | ./logs/access-log.txt | Server started.
+1735231866720 | ./logs/access-log.txt | Server started.
+1735231892369 | ./logs/access-log.txt | Server started.
+1735231972471 | ./logs/access-log.txt | Server started.
+1735232013925 | ./logs/access-log.txt | Server started.
+1735232117569 | ./logs/access-log.txt | Server started.
+1735232187821 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2024-12-26 | ./logs/access-log.txt | Server started.
+2062-22:376undefined | ./logs/access-log.txt | Server started.
+2024-12-26-22:3759undefined | ./logs/access-log.txt | Server started.
+2024-12-26-22:38:9undefined | ./logs/access-log.txt | Server started.
+2024-12-26-22:38:51.316 | ./logs/access-log.txt | Server started.
+2024-12-26-22:43:39.114 | ./logs/access-log.txt | Server started.
+2024-12-26-22:44:7.19 | ./logs/access-log.txt | Server started.
+2024-12-26-22:44:15.706 | ./logs/access-log.txt | Server started.
+2024-12-26-22:46:18.434 | ./logs/access-log.txt | Server started.
+2024-12-27-7:50:40.975 | ./logs/access-log.txt | Server started.
+2024-12-27-9:30:48.267 | ./logs/access-log.txt | Server started!
+2024-12-27-9:31:24.430 | ./logs/access-log.txt | Server started!
+2024-12-27-9:31:43.630 | ./logs/access-log.txt | Server started!
+2024-12-27-9:32:7.103 | ./logs/access-log.txt | Server started!
+2024-12-27-9:32:17.732 | ./logs/access-log.txt | Server started!
+2024-12-27-9:32:25.931 | ./logs/access-log.txt | Server started!
+2024-12-27-9:32:45.545 | ./logs/access-log.txt | Read all users.
+2024-12-27-9:34:36.673 | ./logs/access-log.txt | Read a user.
+2024-12-27-9:35:39.955 | ./logs/access-log.txt | Server started!
+2024-12-27-9:35:55.72 | ./logs/access-log.txt | Server started!
+2024-12-27-9:35:56.986 | ./logs/access-log.txt | Read a user.
+2024-12-27-9:36:8.474 | ./logs/access-log.txt | Server started!
+2024-12-27-9:36:10.735 | ./logs/access-log.txt | Read a user.
+2024-12-27-9:57:31.426 | ./logs/access-log.txt | Server started!
+2024-12-27-9:57:34.679 | ./logs/access-log.txt | Read a user.
+2024-12-27-9:57:50.749 | ./logs/access-log.txt | Read a user.
+2024-12-27-9:58:25.278 | ./logs/access-log.txt | Server started!
+2024-12-27-9:58:29.723 | ./logs/access-log.txt | Read all users.
+2024-12-27-10:1:53.447 | ./logs/access-log.txt | Server started!
+2024-12-27-10:4:12.626 | ./logs/access-log.txt | Server started!
+2024-12-27-10:4:17.853 | ./logs/access-log.txt | Server started!
+2024-12-27-10:5:3.38 | ./logs/access-log.txt | Server started!
+2024-12-27-10:5:10.142 | ./logs/access-log.txt | Server started!
+2024-12-27-10:5:13.431 | ./logs/access-log.txt | Read all users.
+2024-12-27-10:5:17.579 | ./logs/access-log.txt | Read a user.
+2024-12-27-10:11:41.36 | ./logs/access-log.txt | Server started!
+2024-12-27-10:12:0.732 | ./logs/access-log.txt | Read a user.
+2024-12-27-10:12:3.923 | ./logs/access-log.txt | Server started!
+2024-12-27-10:13:20.487 | ./logs/access-log.txt | Read all users.
+2024-12-27-10:13:31.558 | ./logs/access-log.txt | Read a user.
+2024-12-27-10:13:44.542 | ./logs/access-log.txt | Create a user.
+2024-12-27-10:14:6.655 | ./logs/access-log.txt | Update a user.
+2024-12-27-10:14:18.506 | ./logs/access-log.txt | Delete a user.
+2024-12-27-10:15:26.193 | ./logs/access-log.txt | Server started!
+2024-12-27-10:17:27.167 | ./logs/access-log.txt | Server started!
+2024-12-27-10:19:55.30 | ./logs/access-log.txt | Server started!
+2024-12-27-10:20:16.799 | ./logs/access-log.txt | Server started!
+2024-12-27-10:20:22.732 | ./logs/access-log.txt | Read a user.
+2024-12-27-10:20:47.791 | ./logs/access-log.txt | Server started!
+2024-12-27-10:21:14.550 | ./logs/access-log.txt | Server started!
+2024-12-29-8:17:6.805 | ./logs/access-log.txt | Server started!
+2024-12-29-8:17:11.853 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:20:27.172 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:21:5.404 | ./logs/access-log.txt | Server started!
+2024-12-29-8:21:18.376 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:23:6.478 | ./logs/access-log.txt | Server started!
+2024-12-29-8:23:10.263 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:23:22.909 | ./logs/access-log.txt | Server started!
+2024-12-29-8:26:17.815 | ./logs/access-log.txt | Server started!
+2024-12-29-8:30:15.92 | ./logs/access-log.txt | Server started!
+2024-12-29-8:30:18.461 | ./logs/access-log.txt | Server started!
+2024-12-29-8:30:27.395 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:30:27.634 | ./logs/access-log.txt | Server started!
+2024-12-29-8:31:0.974 | ./logs/access-log.txt | Server started!
+2024-12-29-8:31:6.330 | ./logs/access-log.txt | Server started!
+2024-12-29-8:31:11.375 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:31:11.596 | ./logs/access-log.txt | Server started!
+2024-12-29-8:39:50.617 | ./logs/access-log.txt | Server started!
+2024-12-29-8:41:14.459 | ./logs/access-log.txt | Server started!
+2024-12-29-8:41:19.745 | ./logs/access-log.txt | Read a user.
+2024-12-29-8:41:47.528 | ./logs/access-log.txt | Server started!
+2024-12-29-8:48:40.869 | ./logs/access-log.txt | Server started!
+2024-12-29-8:49:8.744 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:49:9.12 | ./logs/access-log.txt | Server started!
+2024-12-29-8:49:42.835 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:49:43.34 | ./logs/access-log.txt | Server started!
+2024-12-29-8:50:3.42 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:50:3.227 | ./logs/access-log.txt | Server started!
+2024-12-29-8:50:40.910 | ./logs/access-log.txt | Server started!
+2024-12-29-8:50:44.493 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:50:44.687 | ./logs/access-log.txt | Server started!
+2024-12-29-8:51:1.403 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:51:1.596 | ./logs/access-log.txt | Server started!
+2024-12-29-8:51:40.446 | ./logs/access-log.txt | Server started!
+2024-12-29-8:51:47.356 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:51:47.605 | ./logs/access-log.txt | Server started!
+2024-12-29-8:52:46.425 | ./logs/access-log.txt | Server started!
+2024-12-29-8:52:51.371 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:52:51.600 | ./logs/access-log.txt | Server started!
+2024-12-29-8:53:13.447 | ./logs/access-log.txt | Server started!
+2024-12-29-8:53:17.803 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:53:17.808 | ./logs/access-log.txt | User created, id#1005
+2024-12-29-8:53:18.82 | ./logs/access-log.txt | Server started!
+2024-12-29-8:54:54.21 | ./logs/access-log.txt | Server started!
+2024-12-29-8:55:14.553 | ./logs/access-log.txt | Server started!
+2024-12-29-8:55:19.233 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:55:19.237 | ./logs/access-log.txt | User created, id#1003
+2024-12-29-8:55:19.519 | ./logs/access-log.txt | Server started!
+2024-12-29-8:55:44.691 | ./logs/access-log.txt | Server started!
+2024-12-29-8:55:49.359 | ./logs/access-log.txt | Create a user.
+2024-12-29-8:55:49.364 | ./logs/access-log.txt | User created, id#1001
+2024-12-29-8:55:49.642 | ./logs/access-log.txt | Server started!
+2024-12-29-9:0:5.717 | ./logs/access-log.txt | Server started!
+2024-12-29-9:0:8.28 | ./logs/access-log.txt | Server started!
+2024-12-29-11:7:44.479 | ./logs/access-log.txt | Server started.
+2024-12-29-11:7:49.711 | ./logs/access-log.txt | Server started.
+2024-12-29-11:7:55.139 | ./logs/access-log.txt | Server started.
+2024-12-29-11:8:12.566 | ./logs/access-log.txt | Server started.
+2024-12-29-11:8:29.297 | ./logs/access-log.txt | Server started.
+2024-12-29-11:8:46.736 | ./logs/access-log.txt | Server started.
+2024-12-29-11:9:22.651 | ./logs/access-log.txt | Server started.
+2024-12-29-11:9:26.281 | ./logs/access-log.txt | Server started.
+2024-12-29-11:10:10.596 | ./logs/access-log.txt | Server started.
+2024-12-29-11:10:17.636 | ./logs/access-log.txt | Server started.
+2024-12-29-11:10:21.671 | ./logs/access-log.txt | Server started.
+2024-12-29-11:10:41.55 | ./logs/access-log.txt | Server started.
+2024-12-29-11:10:52.207 | ./logs/access-log.txt | Server started.
+2024-12-29-11:11:20.950 | ./logs/access-log.txt | Server started.
+2024-12-29-11:11:29.511 | ./logs/access-log.txt | Server started.
+2024-12-29-11:11:36.286 | ./logs/access-log.txt | Server started.
+2024-12-29-11:11:38.238 | ./logs/access-log.txt | Server started.
+2024-12-29-11:11:55.820 | ./logs/access-log.txt | Server started.
+2024-12-29-11:12:7.109 | ./logs/access-log.txt | Server started.
+2024-12-29-11:13:40.36 | ./logs/access-log.txt | Server started.
+2024-12-29-11:14:24.779 | ./logs/access-log.txt | Server started.
+2024-12-29-11:14:55.163 | ./logs/access-log.txt | Server started.
+2024-12-29-11:15:26.928 | ./logs/access-log.txt | Server started.
+2024-12-29-11:15:34.158 | ./logs/access-log.txt | Server started.
+2024-12-29-11:21:50.319 | ./logs/access-log.txt | Server started.
+2024-12-29-11:22:40.658 | ./logs/access-log.txt | Server started.
+2024-12-29-11:23:9.378 | ./logs/access-log.txt | Server started.
+2024-12-29-11:23:28.220 | ./logs/access-log.txt | Server started.
+2024-12-29-11:25:0.59 | ./logs/access-log.txt | Server started.
+2024-12-29-11:25:15.671 | ./logs/access-log.txt | Server started.
+2024-12-29-11:25:38.464 | ./logs/access-log.txt | Server started.
+2024-12-29-11:26:11.170 | ./logs/access-log.txt | Server started.
+2024-12-29-11:26:15.782 | ./logs/access-log.txt | Server started.
+2024-12-29-11:26:45.693 | ./logs/access-log.txt | Server started.
+2024-12-29-11:27:45.467 | ./logs/access-log.txt | Server started.
+2024-12-29-11:28:15.877 | ./logs/access-log.txt | Server started.
+2024-12-29-11:28:22.142 | ./logs/access-log.txt | Server started.
+2024-12-29-11:28:40.679 | ./logs/access-log.txt | Server started.
+2024-12-29-11:28:54.312 | ./logs/access-log.txt | Server started.
+2024-12-29-11:29:28.79 | ./logs/access-log.txt | Server started.
+2024-12-29-11:29:41.150 | ./logs/access-log.txt | Server started.
+2024-12-29-11:29:46.719 | ./logs/access-log.txt | Server started.
+2024-12-29-11:30:34.433 | ./logs/access-log.txt | Server started.
+2024-12-29-11:30:38.283 | ./logs/access-log.txt | Server started.
+2024-12-29-11:30:54.526 | ./logs/access-log.txt | Server started.
+2024-12-29-11:32:43.209 | ./logs/access-log.txt | Server started.
+2024-12-29-11:33:6.954 | ./logs/access-log.txt | Server started.
+2024-12-29-11:33:35.414 | ./logs/access-log.txt | Server started.
+2024-12-29-11:34:22.323 | ./logs/access-log.txt | Server started.
+2024-12-29-11:34:57.169 | ./logs/access-log.txt | Server started.
+2024-12-29-11:35:41.362 | ./logs/access-log.txt | Server started.
+2024-12-30-14:37:50.795 | ./logs/access-log.txt | 
+ ::1 - GET - /
+2025-01-01-10:28:3.753 | ./logs/access-log.txt | 
+ ::1 - GET - /
+2025-01-01-10:29:27.949 | ./logs/access-log.txt | 
+ ::1 - GET - /about
+2025-01-01-10:31:8.311 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-10:31:8.330 | ./logs/access-log.txt | 
+ ::1 - GET - /favicon.ico
+2025-01-01-10:31:17.611 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-10:32:37.954 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-10:32:45.740 | ./logs/access-log.txt | 
+ ::ffff:127.0.0.1 - GET - /api/users
+2025-01-01-10:33:15.454 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-10:34:42.174 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-10:34:47.388 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/user-data
+2025-01-01-10:35:3.192 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/user-data
+2025-01-01-10:47:26.996 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-10:48:9.51 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-10:48:46.330 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-10:48:59.218 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-10:52:48.682 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-10:57:42.729 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-10:59:33.285 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:1:11.344 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:1:22.592 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:2:4.366 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:2:34.745 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:3:3.497 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-11:3:55.13 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:4:28.899 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:4:45.480 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-11:12:34.797 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:13:17.317 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:13:29.379 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/
+2025-01-01-11:15:26.844 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/
+2025-01-01-11:15:42.959 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:16:15.818 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:16:40.362 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:17:7.712 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:17:20.356 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:21:24.639 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:23:3.169 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774d2bd308fd63f09babd6c
+2025-01-01-11:58:26.137 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-11:58:44.582 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-11:59:35.995 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:10:48.488 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:12:7.627 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:12:40.653 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:13:5.733 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:13:27.177 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-12:14:25.142 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-12:14:37.775 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-12:14:52.708 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:19:34.511 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:19:43.148 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-12:21:26.997 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-12:21:53.868 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774e57e74f25e3b0fba0997
+2025-01-01-12:36:33.747 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774e57e74f25e3b0fba0997
+2025-01-01-12:37:57.968 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774e57e74f25e3b0fba0997
+2025-01-01-12:38:43.660 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-12:38:55.826 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774e57e74f25e3b0fba0997
+2025-01-01-12:39:3.426 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-12:39:28.291 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774e57e74f25e3b0fba0997
+2025-01-01-12:39:33.555 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/6774e57e74f25e3b0fba0997
+2025-01-01-15:40:10.184 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-15:41:12.895 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-15:41:56.304 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/677514c0d2c07d697913f154
+2025-01-01-15:42:46.395 | ./logs/access-log.txt | 
+ ::1 - PATCH - /api/users/677514c0d2c07d697913f154
+2025-01-01-15:42:55.88 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users
+2025-01-01-15:43:0.438 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f154
+2025-01-01-15:43:24.993 | ./logs/access-log.txt | 
+ ::1 - POST - /api/users
+2025-01-01-15:43:42.268 | ./logs/access-log.txt | 
+ ::1 - DELETE - /api/users/67751544789355032edfcd76
+2025-01-01-15:43:56.424 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f154
+2025-01-01-15:47:7.581 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f154
+2025-01-01-15:47:18.538 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f151
+2025-01-01-15:48:21.124 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f151
+2025-01-01-15:48:29.139 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f151
+2025-01-01-15:48:35.105 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f151
+2025-01-01-15:48:41.516 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f151
+2025-01-01-15:48:50.773 | ./logs/access-log.txt | 
+ ::1 - GET - /api/users/677514c0d2c07d697913f151
