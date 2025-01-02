@@ -2,17 +2,32 @@
   "name": "rest-api",
   "version": "1.0.0",
   "description": "Node.js rest api demo operations",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src/index"
+    "test": "mocha --require ts-node/register ./src/calc-test/test/**.spec.ts",
+    "start": "nodemon ./src/short-url/index"
   },
   "author": "Jai Mishra",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
     "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.2",
     "nodemon": "^3.1.9",
-    "url": "^0.11.4"
+    "shortid": "^2.2.16",
+    "url": "^0.11.4",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^5.0.1",
+    "@types/mocha": "^10.0.10",
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1",
+    "ts-node": "^10.9.2",
+    "nyc": "^17.1.0",
+    "typescript": "^5.7.2"
   }
 }

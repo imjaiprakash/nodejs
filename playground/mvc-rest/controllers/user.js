@@ -14,10 +14,10 @@ const handleGetAllUsers = async function(req, res) {
 const handleGetUserByID = async function(req, res) {
     console.log("Get a user by id!");
     const result = await User.find({_id:req.params.id});
-    if(result.length>0)
+    if(result.length > 0)
         res.status(200).json(result);
     else 
-    res.status(404).json({error: 'No record found!'});
+        res.status(404).json({error: 'No record found!'});
 }
 
 
