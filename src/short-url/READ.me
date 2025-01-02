@@ -1,0 +1,24 @@
+URL Shortener
+
+Design a url shortener service that return a short url for a valid full url and keep track of clicks.
+
+
+##Routes:
+
+#Create Short URL
+POST /urls
+
+#List Short URL
+GET /urls
+
+#Fetcha Short URL by ID
+GET /urls/:id
+
+#Redirect Short URL by Url Code
+GET /urls/redirect/:urlId
+
+#Fetch Short URL stats 
+GET /urls/stats
+
+#Fetch Short URL stats for a selected URL
+GET /urls/stats/:id
