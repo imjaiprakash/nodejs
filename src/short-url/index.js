@@ -5,6 +5,8 @@ const UrlRouter = require("./routes/url");
 
 require('dotenv').config();
 
+console.log("Short-url app......");
+
 const app = express();
 app.set("view engine", "ejs");
 app.set("views", path.resolve("./src/short-url/views"));
