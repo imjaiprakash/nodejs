@@ -1,0 +1,38 @@
+{
+  "name": "interview-tracker",
+  "version": "1.0.0",
+  "description": "Interview tracker and history",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app",
+    "devStart": "nodemon ./src/app",
+    "script1": "echo 'Running script 1' && sleep 1",
+    "script2": "echo 'Running script 2' && sleep 2",
+    "script3": "echo 'Running script 3' && sleep 3",
+    "parallel": "npm run script1 & npm run script2 & npm run script3"
+  },
+  "keywords": [
+    "Nodejs",
+    "Expressjs",
+    "Reactjs",
+    "MongoDB",
+    "JWT",
+    "Token",
+    "Jest",
+    "Microservice",
+    "API",
+    "Gateway"
+  ],
+  "author": "Jai Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,50 @@
+<!-- Home.ejs -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css" media="screen">
+        body {
+            background-color: rgb(201, 232, 245);
+            text-decoration-color: white;
+            color: rgb(17, 83, 11);
+            font-size: 10pt;
+        }
+    </style>
+</head>
+
+<body>
+    <center>This is our home page: recruitment.</center>
+    <table border="1">
+        <tr>
+            <th>Interview Date</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Job Title</th>
+            <th>Tech Stack</th>
+            <th>CTC</th>
+            <th>ECTC</th>
+            <th>Work Type</th>
+            <th>Created At</th>
+        </tr>
+    <% 
+    if(recruitmentList.length > 0) {
+        recruitmentList.forEach(row => {
+            %>
+            <tr>
+                <td><%= row.interviewDate %></td>
+                <td><%= row.company %></td>
+                <td><%= row.location %></td>
+                <td><%= row.jobTitle %></td>
+                <td><%= row.techStack %></td>
+                <td><%= row.ctc %></td>
+                <td><%= row.ectc %></td>
+                <td><%= row.workType %></td>
+                <td><%= row.createdAt %></td>
+            </tr>
+            <%
+        });
+    }
+    %>
+    </table>
+</body>
+</html>

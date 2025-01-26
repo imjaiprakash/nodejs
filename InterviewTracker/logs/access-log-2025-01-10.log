@@ -1,0 +1,77 @@
+2025-01-10-5:24:41.859: ::1 - GET - /recruitment
+2025-01-10-5:26:6.6: ::1 - GET - /recruitment
+2025-01-10-5:28:35.986: ::1 - GET - /recruitment
+2025-01-10-5:29:37.121: ::1 - GET - /recruitment
+2025-01-10-5:35:1.284: ::1 - GET - /recruitment
+2025-01-10-5:36:14.777: ::1 - GET - /recruitment
+2025-01-10-05:38:10.824: ::1 - GET - /recruitment
+2025-01-10-05:38:17.826: ::1 - GET - /recruitment
+2025-01-10-05:38:21.201: ::1 - GET - /recruitment
+2025-01-10-05:38:23.360: ::1 - GET - /recruitment
+2025-01-10-05:40:05.840: ::1 - GET - /recruitment
+2025-01-10-05:43:57.350: ::1 - POST - /recruitment
+2025-01-10-05:46:45.118: ::1 - POST - /recruitment
+2025-01-10-05:47:06.336: ::1 - POST - /recruitment
+2025-01-10-05:49:05.534: ::1 - GET - /recruitment
+2025-01-10-05:49:58.105: ::1 - GET - /recruitment
+2025-01-10-05:49:58.106: {}
+2025-01-10-05:50:25.148: ::1 - POST - /recruitment
+2025-01-10-05:50:25.148: {"interviewDate":"2025-01-10","company":"Qube84","location":"Chennai","jobTitle":"Technical Lead","techStack":"Nodejs","ectc":"3500000","workType":"Remote","ctc":"4725000"}
+2025-01-10-05:51:53.758: ::1 - GET - /recruitment
+2025-01-10-05:51:53.759: {}
+2025-01-10-05:51:57.239: ::1 - POST - /recruitment
+2025-01-10-05:51:57.239: {"interviewDate":"2025-01-10","company":"Qube84","location":"Chennai","jobTitle":"Technical Lead","techStack":"Nodejs","ectc":"3500000","workType":"Remote","ctc":"4725000"}
+2025-01-10-05:52:59.007: ::1 - POST - /recruitment - {"interviewDate":"2025-01-10","company":"Qube84","location":"Chennai","jobTitle":"Technical Lead","techStack":"Nodejs","ectc":"3500000","workType":"Remote","ctc":"4725000"}
+2025-01-10-05:53:04.530: ::1 - POST - /recruitment - {"interviewDate":"2025-01-10","company":"Qube84","location":"Chennai","jobTitle":"Technical Lead","techStack":"Nodejs","ectc":"3500000","workType":"Remote","ctc":"4725000"}
+2025-01-10-05:53:24.043: ::1 - GET - /recruitment - {}
+2025-01-10-06:01:04.359: ::1 - PATCH - /recruitment/678003b3a38406a7caa21c08 - {"jobTitle":"Tech Lead","ectc":"5500000","ctc":"4800000"}
+2025-01-10-06:05:02.007: ::1 - GET - /recruitment/678003b3a38406a7caa21c08 - {}
+2025-01-10-06:08:05.189: ::1 - GET - /recruitment - {}
+2025-01-10-06:08:10.726: ::1 - GET - /recruitment/678003b3a38406a7caa21c08 - {}
+2025-01-10-06:08:20.558: ::1 - POST - /recruitment - {"interviewDate":"2025-01-10","company":"Qube84","location":"Chennai","jobTitle":"Technical Lead","techStack":"Nodejs","ectc":"3500000","workType":"Remote","ctc":"4725000"}
+2025-01-10-06:19:22.282: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:20:56.352: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:23:37.930: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:24:03.661: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:24:03.710: ::1 - GET - /favicon.ico - {}
+2025-01-10-06:26:53.014: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:27:39.999: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:28:05.537: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:29:24.767: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:30:12.736: ::1 - GET - /recruitment/list - {}
+2025-01-10-06:30:30.036: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:18:13.955: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:18:14.076: ::1 - GET - /favicon.ico - {}
+2025-01-10-07:18:27.595: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:22:12.045: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:26:56.563: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:27:22.350: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:28:41.890: ::1 - GET - /recruitment - {}
+2025-01-10-07:28:49.024: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:29:19.959: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:29:26.507: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:29:51.529: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:30:15.924: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:31:58.729: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:32:15.105: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:32:26.875: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:33:39.065: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:38:41.687: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:40:01.100: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:40:22.558: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:40:57.413: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:41:22.027: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:41:31.963: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:41:54.746: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:43:06.673: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:44:02.496: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:44:07.448: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:44:17.507: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:44:48.076: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:44:49.244: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:44:52.341: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:45:04.300: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:45:23.826: ::1 - GET - /recruitment/list - {}
+2025-01-10-07:45:32.315: ::1 - GET - /recruitment/list - {}
+2025-01-10-21:54:28.306: ::1 - GET - /recruitment/list - {}
+2025-01-10-21:54:28.409: ::1 - GET - /favicon.ico - {}
