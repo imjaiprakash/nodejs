@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "mocha --require ts-node/register ./src/calc-test/test/**.spec.ts",
-    "start": "nodemon ./src/short-url/index"
+    "start": "nodemon ./src/service/auth.js"
   },
   "author": "Jai Mishra",
   "license": "ISC",
@@ -15,6 +15,7 @@
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
+    "kafkajs": "^2.2.4",
     "mongoose": "^8.9.2",
     "nodemon": "^3.1.9",
     "shortid": "^2.2.16",
@@ -26,8 +27,8 @@
     "@types/mocha": "^10.0.10",
     "chai": "^5.1.2",
     "mocha": "^11.0.1",
-    "ts-node": "^10.9.2",
     "nyc": "^17.1.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   }
 }

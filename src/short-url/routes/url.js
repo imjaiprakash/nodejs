@@ -17,8 +17,8 @@ routerUrl
     .get("/", getUrlList)
     .post("/", createShortUrl)
     .patch("/:id", pathShortUrl)
-    .get("/stats", getUrlStatsAll)
     .get("/stats/:shortId", getUrlStatsByShortId)
+    .get("/stats", getUrlStatsAll)
     .get("/:id", getUrlById)
     .get("/redirect/:shortId", redirectUrlToFullUrlByShortId);
     

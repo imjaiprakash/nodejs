@@ -1,15 +1,29 @@
-version: "3.8"
+version: "3.0"
 
 services:
-  nodejs:
-    
-  postgres:
+  
+  nodejs-service:
+    image: node:lts #from hub.docker.com
+    ports:
+      - "9900:8000"
+  
+  mysql-service:
+    image: mysql:8.0
+    ports:
+      - "3387:3306"
+    # volumes:
+    #   - mysql-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: org
+
+  postgres-service:
     image: postgres # hub.docker.com
     ports:
       - "5432:5432"
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_DB: review
+      POSTGRES_DB: org
       POSTGRES_PASSWORD: password
 
   redis:
